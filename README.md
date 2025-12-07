@@ -6,3 +6,5 @@ Scopul aplicației Dolce Cami este de a oferi utilizatorilor o platformă digita
 2. Cojocaru Cătălina
 # Linkuri: 
 Figma - https://www.figma.com/design/wQhb5SKnJIps3y0hhwvFCX/Untitled?node-id=1-3216&t=oIB3OPjMmxPv00pM-1
+
+Trello - https://trello.com/invite/b/6935b0f7028d05e66f2767f4/ATTI9a821db5c85c421f37139fa8845e8bd3E8B2037C/dolcecami
